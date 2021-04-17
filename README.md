@@ -5,6 +5,8 @@ In this project I am using selenium,python to get real time data from naukri.com
 1. Scraping real time data from naukari.com 
 2. Storing the data and performing cleaning and preprocessing on the data 
 
+# Code is available in in the jupyter notebook.
+
 ## Answering Data Science Job seeker questions.
 
 ### 1. which are the top 3 cities offering the jobs in India 
